@@ -4,29 +4,30 @@
 	}
 }
 body{
+    background-color: rgb(146, 145, 145, 0.8);
     background-size: 100%;
     position: relative;
     
-    color: rgb(8, 8, 8);
+    color: rgb(243, 239, 239);
 }
 .table{
-    color: rgb(20, 133, 231);
-    background: rgba(255, 255, 255, 0.8);
+    color: rgb(243, 242, 242);
+    background: rgba(146, 145, 145, 0.8);
 
 }
 #trainRows {
-    color: rgb(255, 10, 10);
+    color: rgb(248, 246, 246);
     font-family: Georgia, 'Times New Roman', Times, serif;
     
 }
 th{
-    color: darkslategray;
+    color: rgb(238, 241, 241);
 }
 h1{
     text-align: center;
     font-family: Impact, Charcoal, sans-serif;
     font-size: 50px;
-    color: rgb(14, 15, 15);
+    color: rgb(245, 247, 247);
     
 }
 h2{
