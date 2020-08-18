@@ -1,0 +1,38 @@
+@media screen and (max-width: 640px){
+	container{
+		width: 100%;
+	}
+}
+body{
+    background-size: 100%;
+    position: relative;
+    
+    color: rgb(8, 8, 8);
+}
+.table{
+    color: rgb(20, 133, 231);
+    background: rgba(255, 255, 255, 0.8);
+
+}
+#trainRows {
+    color: rgb(255, 10, 10);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+th{
+    color: darkslategray;
+}
+h1{
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 50px;
+    color: rgb(14, 15, 15);
+    
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+form{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
